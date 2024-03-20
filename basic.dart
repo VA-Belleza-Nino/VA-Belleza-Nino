@@ -1,5 +1,5 @@
 void main() {
-  int num1 = 10; //declaring number1
+  int num1 = 9; //declaring number1
   int num2 = 3; //declaring number2
   
   // Calculation
