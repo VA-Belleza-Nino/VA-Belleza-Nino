@@ -1,4 +1,4 @@
 void main() {
-  var firstname = "Onins";
-  print("My name is $firstname");
+  var name = "Onins";
+  print("My name is $name");
 }
