@@ -1,7 +1,7 @@
 //Write a dart program to calculate the sum of natural numbers.
 import 'dart:io';
 void main() {
-  
+
   print("Input natural number: ");
   int n = int.parse(stdin.readLineSync()!);
   int s = (n * (n + 1)) ~/ 2;
